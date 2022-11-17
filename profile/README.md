@@ -1,12 +1,21 @@
-## Hi there 👋
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/26654919/202513906-c108aead-603d-4142-9180-a69ae63845cd.png" width="20%" height="20%"> &emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/26654919/202514299-8121b372-529b-4a25-b16b-b07854124ab2.jpg" width="20%" height="20%"> &emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/26654919/202514322-cd17e689-5ae2-447d-af80-4543b6e20007.png" width="17%" height="17%">
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+**This is the organization page for the [H2Ohio Wetland Monitoring Program](https://h2.ohio.gov/natural-resources/)** 💧
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*This repository is used for data quality control, data processing, and internal data sharing. As H2Ohio WMP data and documents are QC'd and peer-reviewed, we will share resources on our [Open Science Framework page](https://osf.io/gfd45/?view_only=094b6de50d894c5fa07d29eeae28e52f). Questions regarding this repository can be directed to h2ohiowetlands@kent.edu.*
+
+---
+
+[H2Ohio](https://h2.ohio.gov) is a data-driven, collaborative, and comprehensive water quality initiative that started in 2019 under Governor Mike DeWine to strategically address Ohio's water quality issues, including harmful algal blooms (HABs) in Lake Erie. 
+
+One of H2Ohio's targeted priorities is to decrease nutrient loading in surface waters, especially to the Western Basin of Lake Erie. The initiative identified 10 best practices that prevent and mitigate nutrient runoff, which have been gradually implemented in collaboration with the Ohio Department of Agriculture (ODA), Ohio Department of Natural Resources (ODNR), Ohio Environmental Protection Agency (OEPA), and other partners.
+
+One of the best practices identified is to [create, restore, and enhance wetlands](https://h2.ohio.gov/natural-resources/) in strategic areas to retain and process nutrient inputs and decrease its burden downstream. The ODNR, responsible for the implementation and oversight of this practice, has enlisted the **L**ake **E**rie and **A**quatic **R**esearch **N**etwork ([LEARN](https://lakeerieandaquaticresearch.org)) to implement the H2Ohio Wetland Monitoring Program (WMP).
+
+The goal of the WMP is to directly measure the nutrient removal function of these created, restored, and enhanced wetlands by assessing its ability to retain and process nutrients. These data will help inform future investment and decisions regarding wetland placement, design, and management practices. 
+
+As of 2022, the ODNR has identified over [113 wetland projects](https://h2.ohio.gov/project/) all throughout Ohio, several of which will be routinely monitored this year as construction is completed.
+
+<img src="https://github.com/h2ohio-wmp/.github/files/10034105/H2Ohio_Statewide_Projects.status_wWQIP._07192022.pdf">
