@@ -15,7 +15,7 @@
 
 One of H2Ohio's targeted priorities is to decrease nutrient loading in surface waters, especially to the Western Basin of Lake Erie. The initiative identified 10 best practices that prevent and mitigate nutrient runoff, which have been gradually implemented in collaboration with the Ohio Department of Agriculture (ODA), Ohio Department of Natural Resources (ODNR), Ohio Environmental Protection Agency (OEPA), and other partners.
 
-One of the best practices identified is to [create, restore, and enhance wetlands](https://h2.ohio.gov/natural-resources/) in strategic areas to retain and process nutrient inputs and decrease its burden downstream. The ODNR, responsible for the implementation and oversight of this practice, has enlisted the **L**ake **E**rie and **A**quatic **R**esearch **N**etwork ([LEARN](https://lakeerieandaquaticresearch.org)) to implement the H2Ohio Wetland Monitoring Program (WMP).
+One of the best practices identified is to [create, restore, and enhance wetlands](https://h2.ohio.gov/natural-resources/) in strategic areas to retain and process nutrient inputs and decrease its burden downstream. The ODNR, responsible for the implementation and oversight of this practice, has enlisted the **L**ake **E**rie and **A**quatic **R**esearch **N**etwork ([LEARN](https://lakeerieandaquaticresearch.org/research/learn-initiatives/)) to implement the H2Ohio Wetland Monitoring Program (WMP).
 
 The goal of the WMP is to directly measure the nutrient removal function of these created, restored, and enhanced wetlands by assessing its ability to retain and process nutrients. These data will help inform future investment and decisions regarding wetland placement, design, and management practices. 
 
