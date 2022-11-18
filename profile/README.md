@@ -6,7 +6,7 @@
 
 *This repository is used for data quality control, data processing, and internal data sharing. As H2Ohio WMP data and documents are QC'd and peer-reviewed, we will share resources on our [Open Science Framework page](https://osf.io/gfd45/?view_only=094b6de50d894c5fa07d29eeae28e52f). Questions regarding this repository can be directed to h2ohiowetlands@kent.edu.*
 
-* :page_facing_up: Click [here](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) to download our 2-page monitoring plan overview. 
+* :page_facing_up: Click [here](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) to download our 2-page monitoring plan overview and summary. 
 * :movie_camera: The recording for our 2022 annual update webinar can be accessed [here](https://ohioseagrant.osu.edu/news/calendar/2022/10/12/p19ek/h2ohio-update).
 
 ---
@@ -20,5 +20,10 @@ One of the best practices identified is to [create, restore, and enhance wetland
 The goal of the WMP is to directly measure the nutrient removal function of these created, restored, and enhanced wetlands by assessing its ability to retain and process nutrients. These data will help inform future investment and decisions regarding wetland placement, design, and management practices. 
 
 As of 2022, the ODNR has identified over [113 wetland projects](https://h2.ohio.gov/project/) all throughout Ohio, several of which will be routinely monitored this year as construction is completed.
+
+* 🗺️ [H2Ohio Map of Wetlands Projects](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-projects-map) (click on *Visualize* tab)
+* 💰 [H2Ohio Project Funding and Metrics](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-metrics) (click on *Visualize* tab)
+
+---
 
 <img src="https://github.com/h2ohio-wmp/.github/files/10034105/H2Ohio_Statewide_Projects.status_wWQIP._07192022.pdf">
