@@ -12,7 +12,7 @@
 * 💰: Interactive map with [H2Ohio Project Funding and Metrics](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-metrics) (click on *Visualize* tab)
 ---
 
-<img align="left" src="https://github.com/h2ohio-wmp/.github/files/10135022/H2Ohio-byNumbers_11_2022.pdf" width="50%" height="50%">
+<img align="left" src="https://github.com/h2ohio-wmp/.github/files/10135022/H2Ohio-byNumbers_11_2022.pdf" width="60%" height="60%">
 
 [H2Ohio](https://h2.ohio.gov) is a data-driven, collaborative, and comprehensive water quality initiative that started in 2019 under Governor Mike DeWine to strategically address Ohio's water quality issues, including harmful algal blooms (HABs) in Lake Erie. 
 
