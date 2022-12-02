@@ -2,12 +2,12 @@
 
 ---
 
-**This is the organization page for the [H2Ohio Wetland Monitoring Program](https://h2.ohio.gov/natural-resources/)** 💧 <img align="right" src="https://user-images.githubusercontent.com/26654919/202734895-9be1e0c5-a16b-4d5b-b00d-2c0a9c234e9c.png" width="25%" height="25%">
+**This is the organization page for the [H2Ohio Wetland Monitoring Program](https://h2.ohio.gov/natural-resources/)** 💧 <img align="right" src="https://user-images.githubusercontent.com/26654919/202734895-9be1e0c5-a16b-4d5b-b00d-2c0a9c234e9c.png" width="30%" height="30%">
 
 *This repository is used for data quality control, data processing, and internal data sharing. As H2Ohio WMP data and documents are QC'd and peer-reviewed, we will share resources on our [Open Science Framework page](https://osf.io/gfd45/?view_only=094b6de50d894c5fa07d29eeae28e52f). Questions regarding this repository can be directed to h2ohiowetlands@kent.edu.*
 
-* 📄 Click [here](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) to download our 2-page monitoring plan overview and summary. 
-* 🎥 The recording for our 2022 annual update webinar can be accessed [here](https://ohioseagrant.osu.edu/news/calendar/2022/10/12/p19ek/h2ohio-update).
+* 📄 Click [here](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) to download our 2-page monitoring plan overview and summary
+* 🎥 The recording for our 2022 annual update webinar can be accessed [here](https://ohioseagrant.osu.edu/news/calendar/2022/10/12/p19ek/h2ohio-update)
 * 🗺️ Interactive map of [H2Ohio Wetland Projects](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-projects-map) (click on *Visualize* tab)
 * 💰 Interactive map with [H2Ohio Project Funding and Metrics](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-metrics) (click on *Visualize* tab)
 * ⌛ [Chronologs](https://www.chronolog.io/project/OHO) at H2Ohio Projects
