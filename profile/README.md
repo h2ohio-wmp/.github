@@ -2,7 +2,7 @@
 
 ---
 
-**This is the organization page for the [H2Ohio Wetland Monitoring Program](https://h2.ohio.gov/natural-resources/)** 💧 <img align="right" src="https://user-images.githubusercontent.com/26654919/202734895-9be1e0c5-a16b-4d5b-b00d-2c0a9c234e9c.png" width="30%" height="30%">
+**This is the organization page for the [H2Ohio Wetland Monitoring Program](https://h2.ohio.gov/natural-resources/)** 💧 <img align="right" src="https://user-images.githubusercontent.com/26654919/202734895-9be1e0c5-a16b-4d5b-b00d-2c0a9c234e9c.png" width="32%" height="32%">
 
 *This repository is used for data quality control, data processing, and internal data sharing. As H2Ohio WMP data and documents are QC'd and peer-reviewed, we will share resources on our [Open Science Framework page](https://osf.io/gfd45/?view_only=094b6de50d894c5fa07d29eeae28e52f). Questions regarding this repository can be directed to h2ohiowetlands@kent.edu.*
 
@@ -14,7 +14,7 @@
 * 💧 [CrowdHydrology](http://www.crowdhydrology.com/location/ohio/) at H2Ohio Projects
 ---
 
-<img align="left" src="https://user-images.githubusercontent.com/26654919/205350763-1d4a3a30-1fae-42e2-aef0-134934434033.jpg" width="60%" height="60%">
+<img align="left" src="https://user-images.githubusercontent.com/26654919/205350763-1d4a3a30-1fae-42e2-aef0-134934434033.jpg" width="62%" height="62%">
 
 [H2Ohio](https://h2.ohio.gov) is a data-driven, collaborative, and comprehensive water quality initiative that started in 2019 under Governor Mike DeWine to strategically address Ohio's water quality issues, including harmful algal blooms (HABs) in Lake Erie. 
 
