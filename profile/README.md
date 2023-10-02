@@ -16,6 +16,7 @@
 * 💰 Interactive map with [H2Ohio Project Funding and Metrics](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-metrics) (click on *Visualize* tab)
 * ⌛ [Chronologs](https://www.chronolog.io/project/OHO) at H2Ohio Projects
 * 💧 [CrowdHydrology](http://www.crowdhydrology.com/location/ohio/) at H2Ohio Projects
+* 📖 [H2Ohio 2023 Annual Report](https://h2.ohio.gov/h2ohio-accomplishments-in-fiscal-year-2023/)
 ---
 
 <img align="left" src="https://github.com/h2ohio-wmp/.github/assets/26654919/668767f5-d40b-45eb-a888-6746766dc014" width="62%" height="62%">
