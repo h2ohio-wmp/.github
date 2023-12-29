@@ -2,7 +2,7 @@
 
 ---
 <p align = "right">
-<sub>$\textcolor{gray}{\textsf{Last updated on 07/18/2023}}$</sub>
+<sub>$\textcolor{gray}{\textsf{Last updated on 12/29/2023}}$</sub>
 </p>
 
 
@@ -10,14 +10,16 @@
 
 *This repository is used for data quality control, data processing, and internal data sharing. As H2Ohio WMP data and documents are QC'd and peer-reviewed, we will share resources on our [Open Science Framework page](https://osf.io/gfd45/?view_only=094b6de50d894c5fa07d29eeae28e52f). Questions regarding this repository can be directed to h2ohiowetlands@kent.edu.*
 
-* 📄 Click [here](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) to download our 2-page monitoring plan overview and summary
-* 🎥 The recording for our 2022 annual update webinar can be accessed [here](https://ohioseagrant.osu.edu/news/calendar/2022/10/12/p19ek/h2ohio-update)
+* 📄 For a brief overview of WMP progress, check out the [2022](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) and [2023](https://github.com/h2ohio-wmp/.github/files/13795756/OHSU-B-1591_H2Ohio-Wetland-Monitoring-Program-BurntwoodLangenkamp-Case.pdf) monitoring plan overview and summmary. The 2023 overview also features a case study for the Burntwood-Langenkamp wetland project.
+* 📖 For an in-depth overview of WMP progress, read through the [H2Ohio 2023 Annual Progress Report](https://h2.ohio.gov/h2ohio-accomplishments-in-fiscal-year-2023/).
+* 🎥 For a general overview of WMP progress, plans, and status, access the recording of our [2022](https://ohioseagrant.osu.edu/news/calendar/2022/10/12/p19ek/h2ohio-update) and [2023](https://www.youtube.com/watch?v=fDsmfxDkKcA) annual update webinar.
 * 🗺️ Interactive map of [H2Ohio Wetland Projects](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-projects-map) (click on *Visualize* tab)
 * 💰 Interactive map with [H2Ohio Project Funding and Metrics](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-metrics) (click on *Visualize* tab)
 * ⌛ [Chronologs](https://www.chronolog.io/project/OHO) at H2Ohio Projects
 * 💧 [CrowdHydrology](http://www.crowdhydrology.com/location/ohio/) at H2Ohio Projects
-* 📖 [H2Ohio 2023 Annual Report](https://h2.ohio.gov/h2ohio-accomplishments-in-fiscal-year-2023/)
+
 ---
+
 
 <img align="left" src="https://github.com/h2ohio-wmp/.github/assets/26654919/668767f5-d40b-45eb-a888-6746766dc014" width="62%" height="62%">
 
