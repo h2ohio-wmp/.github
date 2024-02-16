@@ -3,7 +3,7 @@
 ---
 
 <p align = "right">
-<sub>$\textcolor{gray}{\textsf{Last updated on 16/2/2024}}$</sub>
+<sub>$\textcolor{gray}{\textsf{Last updated on 2/16/2024}}$</sub>
 </p>
 
 
