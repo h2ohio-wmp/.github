@@ -1,8 +1,9 @@
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/26654919/202513906-c108aead-603d-4142-9180-a69ae63845cd.png" width="20%" height="20%"> &emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/26654919/202514299-8121b372-529b-4a25-b16b-b07854124ab2.jpg" width="20%" height="20%"> &emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/26654919/202514322-cd17e689-5ae2-447d-af80-4543b6e20007.png" width="17%" height="17%">
+![ODNR_H2Ohio_LEARN_Header](https://github.com/h2ohio-wmp/.github/assets/26654919/ff27296d-93db-430d-bb30-a8843df12687)
 
 ---
+
 <p align = "right">
-<sub>$\textcolor{gray}{\textsf{Last updated on 1/2/2024}}$</sub>
+<sub>$\textcolor{gray}{\textsf{Last updated on 16/2/2024}}$</sub>
 </p>
 
 
