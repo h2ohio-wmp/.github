@@ -3,7 +3,7 @@
 ---
 
 <p align = "right">
-<sub>$\textcolor{gray}{\textsf{Last updated on 2/16/2024}}$</sub>
+<sub>$\textcolor{gray}{\textsf{Last updated on 3/28/2024}}$</sub>
 </p>
 
 
@@ -23,7 +23,6 @@
 
 ---
 
-
 <img align="left" src="https://github.com/h2ohio-wmp/.github/assets/26654919/668767f5-d40b-45eb-a888-6746766dc014" width="62%" height="62%">
 
 [H2Ohio](https://h2.ohio.gov) is a data-driven, collaborative, and comprehensive water quality initiative that started in 2019 under Governor Mike DeWine to strategically address Ohio's water quality issues, including harmful algal blooms (HABs) in Lake Erie. 
@@ -34,8 +33,8 @@ One of the best practices identified is to [create, restore, and enhance wetland
 
 The goal of the WMP is to directly measure the nutrient removal function of these created, restored, and enhanced wetlands by assessing its ability to retain and process nutrients. These data will help inform future investment and decisions regarding wetland placement, design, and management practices. 
 
-As of 2023, the ODNR has identified over [140 wetland projects](https://h2.ohio.gov/project/) all throughout Ohio, several of which will be routinely monitored this year as construction is completed.
+As of 2024, the ODNR has identified over [170 wetland projects](https://h2.ohio.gov/project/) all throughout Ohio, several of which have been routinely monitored since construction completion.
 
 ---
 
-<img src="https://h2.ohio.gov/wp-content/uploads/2023/04/H2Ohio_Statewide_WQIP_4.2023-1.png">
+<img src="https://github.com/h2ohio-wmp/.github/files/14793133/H2Ohio_Statewide_ProjectStatus_wWQIP_20231120.pdf">
