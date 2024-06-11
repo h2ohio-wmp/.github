@@ -37,4 +37,4 @@ As of 2024, the ODNR has identified over [170 wetland projects](https://h2.ohio.
 
 ---
 
-<img src="https://github.com/h2ohio-wmp/.github/files/14793133/H2Ohio_Statewide_ProjectStatus_wWQIP_20231120.pdf">
+![H2Ohio_Statewide_ProjectStatus_wWQIP_20231120_pages-to-jpg-0001](https://github.com/h2ohio-wmp/.github/assets/26654919/ece23f42-7da2-4cf6-8e89-32c4b648be69)
