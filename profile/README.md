@@ -1,9 +1,9 @@
-![ODNR_H2Ohio_LEARN_Header](https://github.com/h2ohio-wmp/.github/assets/26654919/ff27296d-93db-430d-bb30-a8843df12687)
+![ODNR_H2Ohio_LEARN_Header](https://github.com/h2ohio-wmp/.github/assets/26654919/cdd04559-5ff0-436c-9f7d-2f170e7e4d6b)
 
 ---
 
 <p align = "right">
-<sub>$\textcolor{gray}{\textsf{Last updated on 3/28/2024}}$</sub>
+<sub>$\textcolor{gray}{\textsf{Last updated on 6/11/2024}}$</sub>
 </p>
 
 
