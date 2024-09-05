@@ -3,7 +3,7 @@
 ---
 
 <p align = "right">
-<sub>$\textcolor{gray}{\textsf{Last updated on 6/11/2024}}$</sub>
+<sub>$\textcolor{gray}{\textsf{Last updated on 9/5/2024}}$</sub>
 </p>
 
 
@@ -13,9 +13,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/26654919/202734895-9be1e0c5-a16b-4d5b-b00d-2c0a9c234e9c.png" width="30%" height="30%">
 
-* 📄 For a brief overview of WMP progress, check out the [2022](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) and [2023](https://github.com/h2ohio-wmp/.github/files/13795756/OHSU-B-1591_H2Ohio-Wetland-Monitoring-Program-BurntwoodLangenkamp-Case.pdf) monitoring plan overview and summmary. The 2023 overview also features a case study for the Burntwood-Langenkamp wetland project.
-* 📖 For an in-depth overview of WMP progress, read through the [H2Ohio 2023 Annual Progress Report](https://h2.ohio.gov/h2ohio-accomplishments-in-fiscal-year-2023/).
+* 📚 To access public presentations, reports, and publications, including the **2023 Annual Progress Report**, head over to the [H2Ohio WMP page on Open Science Framework (OSF)](https://osf.io/cvbsx/).
+* 📄 For a brief overview of WMP progress, check out the [2022](https://github.com/h2ohio-wmp/.github/files/10042479/LEARN.Wetlands.sheet_2022.v5.pdf) and [2023](https://github.com/h2ohio-wmp/.github/files/13795756/OHSU-B-1591_H2Ohio-Wetland-Monitoring-Program-BurntwoodLangenkamp-Case.pdf) fact sheets and summmary. The 2023 fact sheet also features a case study for the Burntwood-Langenkamp wetland project.
 * 🎥 For a general overview of WMP progress, plans, and status, access the recording of our [2022](https://ohioseagrant.osu.edu/news/calendar/2022/10/12/p19ek/h2ohio-update) and [2023](https://www.youtube.com/watch?v=fDsmfxDkKcA) annual update webinar.
+* 📖 For an in-depth overview of progress for the H2Ohio Initiative, read through the [H2Ohio 2023 Annual Progress Report](https://h2.ohio.gov/h2ohio-accomplishments-in-fiscal-year-2023/).
 * 🗺️ Interactive map of [H2Ohio Wetland Projects](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-projects-map) (click on *Visualize* tab)
 * 💰 Interactive map with [H2Ohio Project Funding and Metrics](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-metrics) (click on *Visualize* tab)
 * ⌛ [Chronologs](https://www.chronolog.io/project/OHO) at H2Ohio Wetland Projects
