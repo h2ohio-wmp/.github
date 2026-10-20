@@ -13,7 +13,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/26654919/202734895-9be1e0c5-a16b-4d5b-b00d-2c0a9c234e9c.png" width="30%" height="30%">
 
-* 📚 To access public presentations, reports, and publications, including the [**Monitoring Framework**](https://doi.org/10.5281/zenodo.13696342) and the [**2022**](https://doi.org/10.5281/zenodo.10125661), [**2023**](https://doi.org/10.5281/zenodo.11238028), and [**2024**](https://doi.org/10.5281/zenodo.15556397) **Annual Reports**, head over to the H2Ohio WMP organization page on [Zenodo](https://zenodo.org/communities/h2ohio-wmp/records?q=&l=list&p=1&s=10&sort=newest) or [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/GFD45).
+* 📚 To access public presentations, reports, and publications, including the [**Monitoring Framework**](https://doi.org/10.5281/zenodo.13696342) and the [**2022**](https://doi.org/10.5281/zenodo.10125661), [**2023**](https://doi.org/10.5281/zenodo.11238028), [**2024**](https://doi.org/10.5281/zenodo.15556397), and [**2025**](https://doi.org/10.5281/zenodo.21874981) **Annual Reports**, head over to the H2Ohio WMP organization page on [Zenodo](https://zenodo.org/communities/h2ohio-wmp/records?q=&l=list&p=1&s=10&sort=newest).
 * 📄 Fact sheets for a select number of projects are available on the [LEARN website](https://lakeerieandaquaticresearch.org/research/learn-initiatives/h2ohio-wmp/h2ohio-webinars-and-outreach-materials-archive/).
 * 🎥 For a general overview of WMP progress, plans, and status, access the recording of our [2021](https://youtu.be/5E1HQbDbMhQ?si=BU0x39yIPAjtXMfI), [2022](https://youtu.be/OywYmRD7in4?si=Bw3N0xzY5Pcswm9y), [2023](https://youtu.be/fDsmfxDkKcA?si=TvZ7QT72OiR4xlpn), and [2024](https://youtu.be/KPC-6ZyDa9c?si=3B7SiVXE7gPw6tZa) annual update webinars.
 * 📖 For an in-depth overview of progress for the H2Ohio Initiative, read through the [H2Ohio Annual Reports](https://h2.ohio.gov/track-our-progress/annual-reports).
@@ -24,7 +24,7 @@
 
 ---
 
-<img align="left" src="https://dam.assets.ohio.gov/image/upload/f_auto,q_auto/h2.ohio.gov/Infographics/H2Ohio_BTN-09202024-195.jpg" width="62%" height="62%">
+<img align="left" src="https://dam.assets.ohio.gov/image/upload/f_auto,q_auto/h2.ohio.gov/Infographics/H2Ohio_By_The_Numbers.jpg" width="62%" height="62%">
 
 [H2Ohio](https://h2.ohio.gov) is a data-driven, collaborative, and comprehensive water quality initiative that started in 2019 under Governor Mike DeWine to strategically address Ohio's water quality issues, including harmful algal blooms (HABs) in Lake Erie. 
 
@@ -34,7 +34,7 @@ One of the best practices identified is to [create, restore, and enhance wetland
 
 The goal of the WMP is to directly measure the nutrient removal function of these created, restored, and enhanced wetlands by assessing its ability to retain and process nutrients. These data will help inform future investment and decisions regarding wetland placement, design, and management practices. 
 
-As of 2025, the ODNR has identified over [195 wetland projects](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-projects-map) all throughout Ohio, several of which have been routinely monitored since construction completion.
+As of 2026, the ODNR has identified over [500 wetland projects](https://data.ohio.gov/wps/portal/gov/data/view/h2ohio-odnr-projects-map) all throughout Ohio, several of which have been routinely monitored since construction completion.
 
 ---
 
